@@ -17,6 +17,7 @@ Add safety constraint to vanilla multiagent policy gradient (PG) and advantage a
 
 ## Example result
 Example plot of reward and safety cost given by safe multiagent A2C algorithm. The cost is supposed to be smaller than a safety threshold after convergence. In this example plot, cost goes to 0.
+
 ![alt text](https://github.com/hanshen95/multiagent-pg-a2c-with-safety-constraint/blob/master/Mean_Episode_Rewards_SMA2C.png?raw=true) ![alt text](https://github.com/hanshen95/multiagent-pg-a2c-with-safety-constraint/blob/master/Mean_Episode_Costs_SMA2C.png?raw=true)
 
 
