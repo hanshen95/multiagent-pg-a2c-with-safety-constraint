@@ -1,5 +1,5 @@
 
-# Multiagent PG/A2C with safety constraint (AdaTD)
+# Multiagent PG/A2C with safety constraint
 
 Add safety constraint to vanilla multiagent policy gradient (PG) and advantage actor-critic (A2C). The safety constraint is ensured by lagrange relaxation during training.
 
